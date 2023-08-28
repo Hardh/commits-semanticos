@@ -2,7 +2,7 @@
 
 ### Abaixo será enumerado os principais types descritos na documentação do Angular Commit Message Guidelines:
 
-```python
+```text
 build: Alterações que afetam o sistema de construção ou dependências externas (escopos de exemplo: gulp, broccoli, npm),
 ci: Changes to our CI configuration files and scripts (example scopes: Travis, Circle, BrowserStack, SauceLabs);
 docs: referem-se a inclusão ou alteração somente de arquivos de documentação;
